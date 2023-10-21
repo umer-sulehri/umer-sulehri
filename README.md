@@ -84,7 +84,7 @@
 
 <!-- <a href="https://github.com/umer-sulehri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmateenzwl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-<a href="http://www.github.com/abdulmateenzwl"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdulmateenzwl&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br/>
+<a href="https://github.com/umer-sulehri"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=umer-sulehri&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br/>
 
 ## 🏆 GitHub Trophies
 
@@ -105,7 +105,7 @@
 
 ### Do not Support
 
-<p><a href="https://www.buymeacoffee.com/abdulmateenzwl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdulmateenzwl" /></a><a href="https://ko-fi.com/abdulmateenzwl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abdulmateenzwl" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sulehriumer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="umer-sulehri" /></a></p><br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=umer-sulehri&icon=7&color=1)](https://visitcount.itsvg.in)
